@@ -6,12 +6,12 @@
       <meta name="description" content="">
       <meta name="author" content="">
       <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
-      <title>Album example for Bootstrap</title>
+      <title>PizzaFrenzy - A Pizza Frenzy</title>
       <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/album/">
       <!-- Bootstrap core CSS -->
-      <link href="{{ asset('dist/css/bootstrap.min.css') }}" rel="stylesheet">
+      <link href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css" rel="stylesheet">
       <!-- Custom styles for this template -->
-      <link href="{{ asset('dist/css/album.css') }}" rel="stylesheet">
+      <link href="https://getbootstrap.com/docs/4.0/examples/album/album.css" rel="stylesheet">
    </head>
    <body>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -215,8 +215,8 @@
       <!-- Placed at the end of the document so the pages load faster -->
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
-      <script src="{{ asset('assets/js/vendor/popper.min.js') }}"></script>
-      <script src="{{ asset('dist/js/bootstrap.min.js') }}"></script>
-      <script src="{{ asset('assets/js/vendor/holder.min.js') }}"></script>
+      <script src="https://getbootstrap.com/docs/4.0/assets/js/vendor/popper.min.js"></script>
+      <script src="https://getbootstrap.com/docs/4.0/dist/js/bootstrap.min.js"></script>
+      <script src="https://getbootstrap.com/docs/4.0/assets/js/vendor/holder.min.js"></script>
    </body>
 </html>
